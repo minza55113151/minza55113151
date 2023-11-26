@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+👋 Hi, I'm Min! (Chatupon Badkaew) 👋
+</h1>
 
-<!--
-**minza55113151/minza55113151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+✨ I'm A Developer!!! ✨
+</h3>
 
-Here are some ideas to get you started:
+<h3 align="center" >Visit My</h3>
+<h3 align="center"><a href="https://chatupon-portfolio.vercel.app">
+-----> Portfolio Website <-----
+</a>
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; gap: 10px;">
+<img height=170 src="https://github-readme-stats.vercel.app/api?username=minza55113151&show_icons=true&theme=dark&locale=en" alt="minza55113151" />
+<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=minza55113151&hide=c,c%2B%2B,c%23,Shaderlab,ASP.net,HLSL&theme=dark&layout=compact" alt="minza55113151" />
+</div>
