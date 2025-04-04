@@ -1,15 +1,9 @@
 <h1 align="center">
-👋 Hi, I'm Min! (Chatupon Badkaew) 👋
+👋 Hi, I'm Min! (Chatuporn Budkaew) 👋
 </h1>
 
 <h3 align="center">
 ✨ I'm A Developer!!! ✨
-</h3>
-
-<h3 align="center" >Visit My</h3>
-<h3 align="center"><a href="https://chatupon-portfolio.vercel.app">
------> Portfolio Website <-----
-</a>
 </h3>
 
 <div align="center" style="display: flex; gap: 20px;">
